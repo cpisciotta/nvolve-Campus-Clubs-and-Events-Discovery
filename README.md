@@ -9,23 +9,23 @@ Notice: This document is for informational purposes only.
 
 <p align="center">
 
-<img src="Screenshots/Org Details.png" alt="Club Details" width="225" title="Club Details" />
+<img src="Screenshots/Org Details.png" alt="Club Details" width="235" title="Club Details" />
 
-<img src="Screenshots/Org Details 2.png" alt="Club Details 2" width="225" title="Club Details 2" />
+<img src="Screenshots/Org Details 2.png" alt="Club Details 2" width="235" title="Club Details 2" />
 
-<img src="Screenshots/Event Details.png" alt="Event Details" width="225" title="Event Details" />
+<img src="Screenshots/Event Details.png" alt="Event Details" width="235" title="Event Details" />
 
-<img src="Screenshots/Calendar.png" alt="Calendar" width="225" title="Calendar" />
+<img src="Screenshots/Calendar.png" alt="Calendar" width="235" title="Calendar" />
 
-<img src="Screenshots/Join.png" alt="Join Club or Find Event" width="225" title="Join Club or Find Event" />
+<img src="Screenshots/Join.png" alt="Join Club or Find Event" width="235" title="Join Club or Find Event" />
 
-<img src="Screenshots/Create Event.png" alt="Create Event" width="225" title="Create Event" />
+<img src="Screenshots/Create Event.png" alt="Create Event" width="235" title="Create Event" />
 
-<img src="Screenshots/Select Interests.png" alt="Select Interests" width="225" title="Select Interests" />
+<img src="Screenshots/Select Interests.png" alt="Select Interests" width="235" title="Select Interests" />
 
-<img src="Screenshots/Profile.png" alt="Profile" width="225" title="Profile" />
+<img src="Screenshots/Profile.png" alt="Profile" width="235" title="Profile" />
 
-<img src="Screenshots/Login.png" alt="Login" width="225" title="Login" />
+<img src="Screenshots/Login.png" alt="Login" width="235" title="Login" />
 
 </p>
 
@@ -41,6 +41,7 @@ Notice: This document is for informational purposes only.
 2. [Team](#team)
     - [Charles Pisciotta](#charles-pisciotta)
     - [Prem Bhanderi](#prem-bhanderi)
+    - [Brett Weyer](#brett-weyer)
 3. [Features](#features)
     1. [Discover Organizations](#discover-organizations)
     2. [Discover Events](#discover-events)
@@ -138,6 +139,18 @@ GitHub: [leven9leven](https://github.com/leven9leven)<br/>
 LinkedIn: [prem-bhanderi-270607186](https://www.linkedin.com/in/prem-bhanderi-270607186/)
 
 <br>
+
+### **Brett Weyer**
+
+B.S. Computer Engineering | Honors College - Purdue University | Class of 2022
+
+<img align="left" width=150 alt="Brett Weyer" src="Headshots/BW_Headshot.png">
+
+<br clear="left"/>
+
+- Email: [brettweyer@gmail.com](mailto:brettweyer@gmail.com)
+- GitHub: [Bweyer6](https://github.com/Bweyer6)
+- LinkedIn: [brett-weyer](https://www.linkedin.com/in/brett-weyer/)
 
 ---
 <div style="page-break-after: always;"></div>
